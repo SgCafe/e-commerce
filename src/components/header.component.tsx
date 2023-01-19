@@ -8,7 +8,7 @@ import { RiShoppingCartLine } from 'react-icons/ri'
 const Header = () => {
     return (
         <div className="header-container">
-            <h1>CLUB CLOTHING</h1>
+            <h1 className='header-text'>CLUB CLOTHING</h1>
             <div className="header-items">
                 <div className="header-item">Explorar</div>
                 <div className="header-item">Login</div>
