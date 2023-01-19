@@ -1,0 +1,18 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #212529;
+  color: #f8f9fa;
+  font-weight: 600;
+}
+
+.header-items {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.header-item {
+  display: flex;
+}

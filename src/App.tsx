@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
+import Header from './components/header.component';
 
 const App = () => {
   return (
-    <div className="App">
-      <h1>deu bom no ESLINT E PRETTIER</h1>
-    </div>
+    <>
+      <Header />
+    </>
   )
 }
 
