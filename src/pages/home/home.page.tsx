@@ -1,4 +1,5 @@
 import React from 'react'
+import Categories from '../../components/categories/categories.component'
 
 
 // Components
@@ -9,7 +10,7 @@ const HomePage = () => {
         <>
             <Header />
 
-            {/* <Categories /> */}
+            <Categories />
         </>
     )
 }
